@@ -13,5 +13,5 @@ Mediapipe, VGG-Net, ResNet을 이용한 동영상 분류 모델
 
 **CUDA ver** : 11.6
 
-**Requirement** : requirement.txt
+**Requirement** : requirements.txt
 
