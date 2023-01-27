@@ -1,104 +1,17 @@
 # HandGesture-Recognition
 Mediapipe, VGG-Net, ResNet을 이용한 동영상 분류 모델
 
-Requirement
-absl-py==1.3.0
-albumentations==1.3.0
-antlr4-python3-runtime==4.9.3
-attrs==22.2.0
-av==10.0.0
-black==22.12.0
-cachetools==5.2.1
-certifi==2022.12.7
-charset-normalizer==2.1.1
-click==8.1.3
-cloudpickle==2.2.1
-colorama==0.4.6
-contourpy==1.0.6
-cvzone==1.5.6
-cycler==0.11.0
-Cython==0.29.33
-decorator==4.4.2
-dlib==19.24.0
-fastprogress==1.0.3
-filelock==3.9.0
-flatbuffers==23.1.4
-fonttools==4.38.0
-fvcore @ git+https://github.com/facebookresearch/fvcore@fd5043ff8b2e6790f5bd7c9632695c68986cc658
-google-auth==2.16.0
-google-auth-oauthlib==0.4.6
-grpcio==1.51.1
-huggingface-hub==0.11.1
-hydra-core==1.3.1
-idna==3.4
-imageio==2.24.0
-imageio-ffmpeg==0.4.8
-importlib-metadata==6.0.0
-iopath==0.1.9
-joblib==1.2.0
-kiwisolver==1.4.4
-libclang==15.0.6.1
-Markdown==3.4.1
-MarkupSafe==2.1.2
-matplotlib==3.6.2
-mediapipe==0.8.10
-moviepy==1.0.3
-mypy-extensions==0.4.3
-networkx==3.0
-numpy==1.24.1
-oauthlib==3.2.2
-omegaconf==2.3.0
-opencv-contrib-python==4.7.0.68
-opencv-python==4.7.0.68
-packaging==22.0
-pandas==1.5.2
-parameterized==0.8.1
-pathspec==0.10.3
-Pillow==9.4.0
-platformdirs==2.6.2
-portalocker==2.7.0
-proglog==0.1.10
-protobuf==3.19.6
-psutil==5.9.4
-pyasn1==0.4.8
-pyasn1-modules==0.2.8
-pycocotools==2.0.6
-pyparsing==3.0.9
-python-dateutil==2.8.2
-pytorchvideo==0.1.5
-pytz==2022.7
-PyWavelets==1.4.1
-pywin32==305
-PyYAML==6.0
-qudida==0.0.4
-regex==2022.10.31
-requests==2.28.1
-requests-oauthlib==1.3.1
-rsa==4.9
-scikit-image==0.19.3
-scikit-learn==1.2.0
-scipy==1.10.0
-simplejson==3.18.1
-six==1.16.0
-tabulate==0.9.0
-tensorboard==2.11.2
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
-tensorflow-estimator==2.11.0
-tensorflow-io-gcs-filesystem==0.30.0
-termcolor==2.2.0
-threadpoolctl==3.1.0
-tifffile==2022.10.10
-tokenizers==0.13.2
-tomli==2.0.1
-torch==1.13.1+cu116
-torchaudio==0.13.1+cu116
-torchvision==0.14.1+cu116
-tqdm==4.64.1
-transformers==4.25.1
-typing_extensions==4.4.0
-urllib3==1.26.13
-Werkzeug==2.2.2
-wrapt==1.14.1
-yacs==0.1.8
-zipp==3.11.0
+**CPU** : intel i7-8700k
+
+**그래픽카드** : nvidia Geforce 1080Ti
+
+**RAM** : 32GB
+
+**IDE** : Pycharm
+
+**Python ver** : 3.9
+
+**CUDA ver** : 11.6
+
+**Requirement** : requirement.txt
+
